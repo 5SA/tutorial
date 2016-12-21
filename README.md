@@ -34,3 +34,11 @@
 ### 04. creating the Polls app
 
     python manage.py startapp polls
+
+### 05. write your first view
+
+    # edit polls/views.py
+    # create polls/urls.py
+    # edit mysite/urls.py
+    python manage.py runserver $IP:$PORT
+    # firefox https://tutorial-sdoro.c9users.io/polls/

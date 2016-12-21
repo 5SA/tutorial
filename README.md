@@ -24,3 +24,9 @@
     # before pip set export HTTPS_PROXY=http://username:pass@proxyaddress:port
     pip install -r requirements.txt
 
+### 03. creating a project and verify ...
+
+    django-admin startproject mysite
+    cd mysite
+    python manage.py runserver $IP:$PORT
+    # firefox https://tutorial-sdoro.c9users.io

@@ -30,3 +30,7 @@
     cd mysite
     python manage.py runserver $IP:$PORT
     # firefox https://tutorial-sdoro.c9users.io
+
+### 04. creating the Polls app
+
+    python manage.py startapp polls

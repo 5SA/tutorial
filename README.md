@@ -12,3 +12,15 @@
     git tag Stage-01 f8c77e6
     git push --tags
 
+### 02. build a virtual environment
+
+    # make a new cloud9 workspace 
+    #   name it tutorial
+    #   cloned from git@github.com:5SA/tutorial.git
+    #   select Blank template
+    sudo pip install virtualenv   # admin auth
+    virtualenv $HOME/.env
+    source $HOME/.env/bin/activate
+    # before pip set export HTTPS_PROXY=http://username:pass@proxyaddress:port
+    pip install -r requirements.txt
+

@@ -42,3 +42,9 @@
     # edit mysite/urls.py
     python manage.py runserver $IP:$PORT
     # firefox https://tutorial-sdoro.c9users.io/polls/
+
+### 06. database setup
+
+    # edit mysite/settings.py
+    python manage.py migrate
+    # edit polls/models.py

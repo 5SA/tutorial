@@ -74,3 +74,8 @@
     # edit polls/admin.py
     python manage.py runserver $IP:$PORT
     # firefox https://tutorial-sdoro.c9users.io/admin
+
+### 11. writing more views
+
+    # edit polls/views.py
+    # edit polls/urls.py

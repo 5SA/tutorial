@@ -48,3 +48,7 @@
     # edit mysite/settings.py
     python manage.py migrate
     # edit polls/models.py
+
+### 07. activating models
+
+    # edit mysite/settings.py

@@ -31,6 +31,7 @@ ALLOWED_HOSTS = [u'tutorial-sdoro.c9users.io']
 # Application definition
 
 INSTALLED_APPS = [
+    'polls.apps.PollsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

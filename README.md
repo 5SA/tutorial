@@ -87,3 +87,9 @@
     > polls/templates/polls/index.html
     # edit polls/templates/polls/index.html
     # edit polls/views.py
+
+### 13. A shortcut: render() & Raising a 404 error
+
+    #edit polls/views.py
+    > polls/templates/polls/detail.html
+    # edit polls/templates/polls/detail.html

@@ -68,3 +68,9 @@
     # Email address: admin@example.com
     # Password: not24get
     # Password (again): not24get
+
+### 10. make the poll app modifiable in the admin
+
+    # edit polls/admin.py
+    python manage.py runserver $IP:$PORT
+    # firefox https://tutorial-sdoro.c9users.io/admin

@@ -79,3 +79,11 @@
 
     # edit polls/views.py
     # edit polls/urls.py
+
+### 12. write views that actually do something
+
+    # edit polls/views.py
+    mkdir -p polls/templates/polls
+    > polls/templates/polls/index.html
+    # edit polls/templates/polls/index.html
+    # edit polls/views.py

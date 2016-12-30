@@ -60,3 +60,11 @@
 
     # python manage.py shell
     # edit polls/models.py
+
+### 09. creating an admin user
+
+    python manage.py createsuperuser
+    # Username: admin
+    # Email address: admin@example.com
+    # Password: not24get
+    # Password (again): not24get

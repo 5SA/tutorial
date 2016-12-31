@@ -101,3 +101,7 @@
 ### 15. use the template system
 
     # edit polls/templates/polls/detail.html
+
+### 16. removing hardcoded URLs in templates
+
+    # edit polls/templates/polls/index.html

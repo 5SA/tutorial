@@ -97,3 +97,7 @@
 ### 14. a shortcut: get_object_or_404()
 
     # edit polls/views.py
+
+### 15. use the template system
+
+    # edit polls/templates/polls/detail.html

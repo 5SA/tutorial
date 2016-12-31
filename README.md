@@ -105,3 +105,8 @@
 ### 16. removing hardcoded URLs in templates
 
     # edit polls/templates/polls/index.html
+
+### 17. namespacing URL names
+
+    # edit polls/templates/polls/index.html
+    # edit polls/urls.py

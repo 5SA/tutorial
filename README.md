@@ -110,3 +110,12 @@
 
     # edit polls/templates/polls/index.html
     # edit polls/urls.py
+
+### 18. write a simple form
+
+    # edit polls/templates/polls/detail.html
+    # edit polls/views.py
+    > polls/templates/polls/results.html
+    # edit polls/templates/polls/results.html
+    # edit polls.admin
+    # warning: remember to add some Choices ;)

@@ -119,3 +119,8 @@
     # edit polls/templates/polls/results.html
     # edit polls.admin
     # warning: remember to add some Choices ;)
+
+### 19. use generic views: Less code is better
+
+    # edit polls/urls.py
+    # edit polls/views.py

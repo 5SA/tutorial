@@ -130,3 +130,8 @@
     > polls/tests.py
     # edit polls/tests.py
     python manage.py test polls
+
+### 21. fixing the bug
+
+    # edit polls/models.py
+    python manage.py test polls

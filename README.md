@@ -146,3 +146,8 @@
     # edit polls/views.py
     # edit polls/tests.py
     python manage.py test polls
+
+### 24. customize your app’s look and feel
+
+    mkdir polls/static
+    # edit 

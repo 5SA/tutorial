@@ -136,7 +136,13 @@
     # edit polls/models.py
     python manage.py test polls
 
-### 22. more comprehensive tests¶
+### 22. more comprehensive tests
 
+    # edit polls/tests.py
+    python manage.py test polls
+
+### 23. improving our view
+
+    # edit polls/views.py
     # edit polls/tests.py
     python manage.py test polls

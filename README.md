@@ -149,5 +149,12 @@
 
 ### 24. customize your app’s look and feel
 
-    mkdir polls/static
-    # edit 
+    mkdir polls/static/polls
+    > polls/static/polls/style.css
+    # edit polls/static/polls/style.css
+
+### 25. adding a background-image
+
+    # edit polls/static/polls/style.css
+    mkdir -p polls/static/polls/images/
+    # get LineageOS image into polls/static/polls/images/background.png

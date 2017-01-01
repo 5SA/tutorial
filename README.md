@@ -124,3 +124,9 @@
 
     # edit polls/urls.py
     # edit polls/views.py
+
+### 20. create a test to expose the bug
+
+    > polls/tests.py
+    # edit polls/tests.py
+    python manage.py test polls

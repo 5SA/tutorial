@@ -174,3 +174,8 @@
 ### 29. adding related objects (2/2)
 
     # edit polls/admin.py
+
+### 30. customize the admin change list
+
+    # edit polls/admin.py
+    # edit polls/models.py

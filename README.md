@@ -158,3 +158,7 @@
     # edit polls/static/polls/style.css
     mkdir -p polls/static/polls/images/
     # get LineageOS image into polls/static/polls/images/background.png
+
+### 26. customize the admin form (1/2)
+
+    # edit polls/admin.py

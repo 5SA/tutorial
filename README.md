@@ -179,3 +179,11 @@
 
     # edit polls/admin.py
     # edit polls/models.py
+
+### 31. customize the admin look and feel
+
+    # edit mysite/settings.py
+    mkdir polls/templates/admin
+    cp $HOME/.env/local/lib/python2.7/site-packages/django/contrib/admin/templates/admin/base_site.html \
+      polls/templates/admin/
+    # edit polls/templates/admin/base_site.html

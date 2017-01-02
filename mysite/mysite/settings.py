@@ -25,7 +25,7 @@ SECRET_KEY = '69(1u81sg6g)vrh0pfxbh)!mx)oaoo@i$nwv!ugq3mm&9#3*cl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [u'tutorial-sdoro.c9users.io']
 
 
 # Application definition

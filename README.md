@@ -162,3 +162,7 @@
 ### 26. customize the admin form (1/2)
 
     # edit polls/admin.py
+
+### 27. customize the admin form (2/2)
+
+    # edit polls/admin.py

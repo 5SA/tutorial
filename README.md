@@ -170,3 +170,7 @@
 ### 28. adding related objects (1/2)
 
     # edit polls/admin.py
+
+### 29. adding related objects (2/2)
+
+    # edit polls/admin.py

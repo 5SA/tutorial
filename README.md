@@ -166,3 +166,7 @@
 ### 27. customize the admin form (2/2)
 
     # edit polls/admin.py
+
+### 28. adding related objects (1/2)
+
+    # edit polls/admin.py
